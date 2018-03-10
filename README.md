@@ -22,9 +22,9 @@ The Steps of this project are the following:
 
 Project Files and folders:
 
-.ipynb file : a python notebook containing project code
-writeup_template.md : project report
-test_images : images used for testing
-camera_cal : images used for calibration
-project_video.mp4: result of the pipeline
+* .ipynb file : a python notebook containing project code
+* writeup_template.md : project report
+* test_images : images used for testing
+* camera_cal : images used for calibration
+* project_video.mp4: result of the pipeline
 
