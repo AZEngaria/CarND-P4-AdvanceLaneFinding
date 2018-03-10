@@ -27,4 +27,4 @@ Project Files and folders:
 * test_images : images used for testing
 * camera_cal : images used for calibration
 * project_video.mp4: result of the pipeline
-
+* output_images: Intermediate results of the pipeline
