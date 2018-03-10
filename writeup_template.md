@@ -149,3 +149,8 @@ Here's a [link to my video result](./project_video.mp4)
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
 The pipeline slightly fails for the harder challenges provided. I think that using other color channel images (RGB) and thresholding with the the appropriate values might solve the issue to some extent. I'm still experimenting and researching about the techniques to make the pipeline more general and robust. 
+
+I still have to try the following few things:
+
+1. Technique of averaging the lines and using lines detected with previous frames to get the output of current frame.
+2. Making source and the destination points dynamic helping to make our pipeline more robust.
